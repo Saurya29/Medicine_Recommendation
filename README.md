@@ -30,5 +30,5 @@ Welcome to our cutting-edge **Personalized Medical Recommendation System**, a po
 - Flask
 - Scikit-learn / TensorFlow / Other ML libraries
 - HTML/CSS/JavaScript (Frontend)
-- SQLite / MongoDB (optional for storage)
+- SQLite / MongoDB 
 
